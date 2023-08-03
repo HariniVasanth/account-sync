@@ -1,0 +1,100 @@
+[
+    {
+        "account_name": "cloudadmin",
+        "description": "Planon - Cloud service account"
+    },
+    {
+        "account_name": "dc-admin",
+        "description": "Dartmouth fail safe admin account"
+    },
+    {
+        "account_name": "f003v3f",
+        "description": "NonPerson Planon Service"
+    },
+    {
+        "account_name": "f003xt4",
+        "description": "NonPerson Planon Admin01"
+    },
+    {
+        "account_name": "f00484p",
+        "description": "NonPerson Planon Admin02"
+    },
+    {
+        "account_name": "f004cwj",
+        "description": "NonPerson Planon Admin03"
+    },
+    {
+        "account_name": "f004cwk",
+        "description": "Planon Admin04"
+    },
+    {
+        "account_name": "f004jkx",
+        "description": "NonPerson Planon Admin05"
+    },
+    {
+        "account_name": "awmdataengineadmin",
+        "description": "AWM - Data engine account"
+    },
+    {
+        "account_name": "csts01",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "csts02",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "csts03",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "csts04",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "csts05",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "csts06",
+        "description": "Campus Services Technology Services - Administrator"
+    },
+    {
+        "account_name": "schedulerengineadmin",
+        "description": "Planon - Schedulerengineadmin"
+    },
+    {
+        "account_name": "accelerator",
+        "description": "Accelerator"
+    },
+    {
+        "account_name": "f004pk2",
+        "description": "Network Services NetAPI"
+    },
+    {
+        "account_name": "f002770",
+        "description": "OBIEE Reports"
+    },
+    {
+        "account_name": "supervisor",
+        "description": "Planon - Cloud service account"
+    },
+    {
+        "account_name": "f0071zn",
+        "description": "Angel Edwards"
+    },
+    {
+        "account_name": "d17215h",
+        "description": "Gregory J. Poretto"
+
+    },
+    {
+        "account_name": "exchangeadmin",
+        "description": "exchangeadmin"
+    },
+   {
+        "account_name": "d10583z",
+        "description": "Eric J. Platt"
+    }
+
+]
